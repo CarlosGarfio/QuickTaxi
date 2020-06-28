@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickTaxi</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
